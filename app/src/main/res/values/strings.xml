@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Swipe</string>
+    <string name="title">Title</string>
+    <string name="insert_new_fragment">This is a first fragment! Swipe for another ones!</string>
+    <string name="insert">insert</string>
+    <string name="second_fragment_with_image">Second fragment with an image</string>
+    <string name="paint_caption">paint caption!</string>
+    <string name="first_fragment">previous fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
