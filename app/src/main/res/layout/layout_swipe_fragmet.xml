@@ -17,4 +17,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/paint_caption" />
+
+    <Button
+        android:id="@+id/buttonSF1small"
+        android:text="@string/small_caption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
